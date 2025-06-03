@@ -1,0 +1,5 @@
+
+/* 设置图片宽度为 200px */
+img[src="images/6.jpg"] {
+    right: 200px;
+}
